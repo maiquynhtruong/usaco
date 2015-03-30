@@ -1,0 +1,80 @@
+2686736
+Name reading is dave
+0th name in group is dave
+2686736
+Name reading is laura
+1th name in group is laura
+2686736
+Name reading is owen
+2th name in group is owen
+2686736
+Name reading is vick
+3th name in group is vick
+2686736
+Name reading is amr
+4th name in group is amr
+2686736
+Name found is dave, the 0th member
+2686736
+0th name in group is dave
+2686736
+2686736
+1th name in group is dave
+Initial money that dave had is -198
+Name of the 5th member found is (null)
+Amount that (null) received is 66
+Name of the 5th member found is (null)
+Amount that (null) received is 66
+Name of the 5th member found is (null)
+Amount that (null) received is 66
+2686736
+Name found is owen, the 0th member
+2686736
+0th name in group is owen
+2686736
+2686736
+1th name in group is owen
+Initial money that owen had is -698
+Name of the 5th member found is (null)
+Amount that (null) received is 500
+2686736
+Name found is amr, the 0th member
+2686736
+0th name in group is amr
+2686736
+2686736
+1th name in group is amr
+Initial money that amr had is -848
+Name of the 5th member found is (null)
+Amount that (null) received is 75
+Name of the 5th member found is (null)
+Amount that (null) received is 75
+2686736
+Name found is laura, the 0th member
+2686736
+0th name in group is laura
+2686736
+2686736
+1th name in group is laura
+Initial money that laura had is -848
+Name of the 5th member found is (null)
+Amount that (null) received is 0
+Name of the 5th member found is (null)
+Amount that (null) received is 0
+2686736
+Name found is vick, the 0th member
+2686736
+0th name in group is vick
+2686736
+2686736
+1th name in group is vick
+vick -848
+2686736
+vick 0
+2686736
+vick 0
+2686736
+vick 0
+2686736
+vick 0
+2686736
