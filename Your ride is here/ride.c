@@ -1,8 +1,4 @@
-/*
-ID:caroltr1
-LANG:C
-TASK:ride
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

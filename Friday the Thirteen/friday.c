@@ -1,8 +1,4 @@
-/*
-ID: caroltr1
-LANG: C
-TASK: friday
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
