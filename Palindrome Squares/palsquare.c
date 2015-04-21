@@ -22,7 +22,6 @@ int main()
     int i, j, k, lenNum;
     fprintf(fout,"%d %d\n",1,1);
     for (i=2; i <=300; i++)
-    //i = 34;
     {
         int arr[MAXLEN], num[MAXLEN];
         j = convertBase(i, arr);
