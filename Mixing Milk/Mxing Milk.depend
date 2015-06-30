@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431922708 source:c:\users\mai\projects\codeblocks projects\mxing milk\milk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

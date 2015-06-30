@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433922137 source:c:\users\mai\projects\codeblocks projects\barn repair\barn1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
