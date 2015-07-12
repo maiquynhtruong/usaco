@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435684951 source:c:\users\mai\projects\c projects\not finished\wormholes\wormhole.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+
